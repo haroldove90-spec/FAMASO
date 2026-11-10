@@ -1,0 +1,6 @@
+{
+  "name": "FAMASO - Fast Food Road",
+  "description": "Dashboard operativo, calidad, certificados e inventario para lavado de flotas Fast Food Road con acceso por roles y PWA",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
